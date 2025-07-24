@@ -36,12 +36,15 @@ export const Portfolio = () => {
           </div>
           <br/>
           <div>
-            <h3>Tools</h3><br/>
+            <h3>Technologies</h3><br/>
             <p>
               <li>React.js</li>
+              <li>PHP</li>
               <li>Laravel</li>
+              <li>Inertia</li>
               <li>MySQL</li>
               <li>Tailwind CSS</li>
+              <li>Hive MQ</li>
             </p>
           </div>
         </div>
@@ -62,7 +65,7 @@ export const Portfolio = () => {
           </div>
           <br/>
           <div>
-            <h3>Tools</h3><br/>
+            <h3>Technologies</h3><br/>
             <p>
               <li>Express</li>
               <li>HTML</li>
