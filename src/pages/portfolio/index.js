@@ -38,7 +38,10 @@ export const Portfolio = () => {
           <div>
             <h3>Tools</h3><br/>
             <p>
-              Tailwind CSS, React.js, Laravel, MySQL
+              <li>React.js</li>
+              <li>Laravel</li>
+              <li>MySQL</li>
+              <li>Tailwind CSS</li>
             </p>
           </div>
         </div>
@@ -57,7 +60,16 @@ export const Portfolio = () => {
             (Thesis project)</h3> <br /> <br />
             A web-based platform that helps users find fitness gyms, parks, and outdoor workout spots in Davao City. It features a map-based interface with user ratings, reviews, and membership details. The platform supports users in achieving their fitness goals by offering access to gym facilities, personal trainer bookings, and detailed information on nearby exercise locations—ideal for both locals and newcomers passionate about fitness.
           </div>
-          
+          <br/>
+          <div>
+            <h3>Tools</h3><br/>
+            <p>
+              <li>Express</li>
+              <li>HTML</li>
+              <li>Tailwind CSS</li>
+              <li>MySQL</li>
+            </p>
+          </div>
         </div>
       </Container>
     </HelmetProvider>

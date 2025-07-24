@@ -12,7 +12,7 @@ const introdata = {
     title: "I’m Charles Angelo Cuizon",
     animated: {
         first: "Laravel | React | HTML Developer",
-        second: "Intermediate Web Developer",
+        second: "Junior Web Developer",
         third: "Let's build something awesome!",
     },
     description:
