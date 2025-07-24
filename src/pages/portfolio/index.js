@@ -34,8 +34,9 @@ export const Portfolio = () => {
           <div> <h3>ManPro Vehicle Tracking System</h3> <br /> <br />
             A fleet management dashboard for tracking vehicle status in real time. It includes live maps, activity and incident reports, and easy access to features like routes, drivers, and geofences—ideal for improving logistics efficiency and oversight.
           </div>
+          <br/>
           <div>
-            <h1>Tools</h1><br/>
+            <h3>Tools</h3><br/>
             <p>
               Tailwind CSS, React.js, Laravel, MySQL
             </p>
