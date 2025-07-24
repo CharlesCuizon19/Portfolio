@@ -34,6 +34,12 @@ export const Portfolio = () => {
           <div> <h3>ManPro Vehicle Tracking System</h3> <br /> <br />
             A fleet management dashboard for tracking vehicle status in real time. It includes live maps, activity and incident reports, and easy access to features like routes, drivers, and geofences—ideal for improving logistics efficiency and oversight.
           </div>
+          <div>
+            <h1>Tools</h1><br/>
+            <p>
+              Tailwind CSS, React.js, Laravel, MySQL
+            </p>
+          </div>
         </div>
       </Container>
       <Container className="About-header">
@@ -50,6 +56,7 @@ export const Portfolio = () => {
             (Thesis project)</h3> <br /> <br />
             A web-based platform that helps users find fitness gyms, parks, and outdoor workout spots in Davao City. It features a map-based interface with user ratings, reviews, and membership details. The platform supports users in achieving their fitness goals by offering access to gym facilities, personal trainer bookings, and detailed information on nearby exercise locations—ideal for both locals and newcomers passionate about fitness.
           </div>
+          
         </div>
       </Container>
     </HelmetProvider>
