@@ -72,7 +72,7 @@ const dataportfolio2 = [
     {
         img: flexperience,
         description: "Vehicle Tracking System built during internship.",
-        link: "http://tracker.manpromanagement.com",
+        link: "https://flexperience-cpstn.vercel.app",
     },
 ];
 
