@@ -71,7 +71,7 @@ const dataportfolio1 = [
 const dataportfolio2 = [
     {
         img: flexperience,
-        description: "Vehicle Tracking System built during internship.",
+        description: "Flexperience - A fitness location finder web app.",
         link: "https://flexperience-cpstn.vercel.app",
     },
 ];
